@@ -41,12 +41,12 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 .containerinfo > ol{
     display: flex;
     list-style: none;
 }
 li{
-    justify-content: space-between;
+    margin: 20px;
 }
